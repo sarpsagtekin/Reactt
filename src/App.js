@@ -11,7 +11,7 @@ function App() {
       <nav className='comp nav'>
         <ul>
           <li>
-            <a href='/'>Anchor</a>
+            <a href='/'>Anchorr</a>
           </li>
           <li>
             <NavLink
